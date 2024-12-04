@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hiii
+=======
+Hiiiiiiiii
+>>>>>>> SIT
